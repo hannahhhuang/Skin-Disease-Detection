@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+
+    <link rel="stylesheet" href="./main.css">
+</head>
+<body class="containerbig">
+<div class="containersmall" id="page1">
+    <h1 for="file">Skin Disease Detection</h1>
+    <h3 class="fronttext">Please upload an image of your skin disease.We will help you detect what type of skin disease
+        it is and give you treatment recommendations.</h3>
+    <img class="imgStyle" src="frontpicture.png">
+    <form id="upload">
+        <input type="file" accept="image/jpeg, image/png, image/jpg" required>
+        <output></output>
+
+    </form>
+    <button class="buttonStyle" id="startButton" onclick="setTimeout(appear2, 3000)">Upload</button>
+
+
+</div>
+
+<nav class="containersmall" id="page2">
+
+    <h3>Based on our calculation, your skin disease is:</h3>
+    <h1 id="disease" class="diseaseName">Melanocytic Nevi (NV)</h1>
+    <img src="mpic.png" style="width:50%">
+    <p id="description" class="de">Melanocytic nevi are common benign (non-cancerous) skin growths that contain pigment-producing cells (melanocytes). They are sometimes called 'moles' Most moles are small (less than a quarter of an inch in diameter) and dark brown, but some moles can be larger, raised, and flesh-colored. The vast majority of melanocytic nevi are harmless, but it's important to keep an eye on any changes in size, shape, or color, as these can be signs of melanoma, a potentially dangerous skin cancer. </p>
+    <h3 id="treatment" class="de">Our advice is that if you have a mole that changes, itches, bleeds, or appears unusual in any way, you should see a doctor for evaluation.</h3>
+    <button class="buttonStyleContinue" id="back">Back</button>
+</nav>
+
+
+<script type="text/javascript" src="./main.js"></script>
+</body>
+
+</html>

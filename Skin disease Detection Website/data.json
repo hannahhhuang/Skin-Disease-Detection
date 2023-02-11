@@ -1,0 +1,18 @@
+[
+    {
+      "disease": "Melanocytic Nevi (NV)",
+      "description": "Melanocytic nevi are common benign (non-cancerous) skin growths that contain pigment-producing cells (melanocytes). They are sometimes called 'moles' Most moles are small (less than a quarter of an inch in diameter) and dark brown, but some moles can be larger, raised, and flesh-colored. The vast majority of melanocytic nevi are harmless, but it's important to keep an eye on any changes in size, shape, or color, as these can be signs of melanoma, a potentially dangerous skin cancer. ",
+      "treatment": "Our advice is that if you have a mole that changes, itches, bleeds, or appears unusual in any way, you should see a doctor for evaluation."
+    },
+    {
+      "disease": "Eczema",
+      "description": "Eczema is a chronic skin condition that causes dry, itchy, and inflamed skin. It is also known as atopic dermatitis. ",
+      "treatment": "Topical corticosteroids, Moisturizers, Antihistamines, Light therapy."
+    },
+    {
+      "disease": "Atopic Dermatitis ",
+      "description": "Atopic dermatitis, also known as eczema, is a chronic skin condition that causes dry, itchy, and inflamed skin. ",
+      "treatment": "It's important to work with a doctor to determine the best treatment plan for your individual case of atopic dermatitis. In some cases, a combination of treatments may be necessary to effectively manage symptoms. The goal of treatment is to relieve symptoms and improve the overall appearance of the skin."
+    }
+    
+]
