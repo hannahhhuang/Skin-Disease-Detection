@@ -2,7 +2,7 @@
 
 This was a project done under Hacklytics 2023.
 
-author:
+Authors:
   - Hannah Hanyun Huang, Georgia Institute of Technology
   - Steven Zhang, Georgia Institute of Technology
   - Mingxuan Nie, Georgia Institute of Technology
