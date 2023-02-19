@@ -1,4 +1,12 @@
 # Skin-Disease-Detection
+
+This was a project done under Hacklytics 2023.
+
+author:
+  - Hannah Hanyun Huang^[Georgia Institute of Technology]
+  - Steven Zhang^[Georgia Institute of Technology]
+  - Mingxuan Nie^[Georgia Institute of Technology]
+
 We decided to use the Skin Diseases Image Dataset from [kaggle](https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset) and perform a Multi-Class Classification Problem.
 Our vision is to create a Web Platform for users to upload or take a picture of some part of their body has visible skin disease symptoms and have our Machine Learning Model 
 classify what type of skin disease this user might have. Afterwards, our pipeline would recommend a specific treatment plan to the user to ensure the user is getting the treatment needed. We have created multiples to test and experiment which Machine Learning Techniques were best suited for handling our specific
